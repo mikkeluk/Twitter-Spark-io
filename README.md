@@ -3,6 +3,8 @@ Readme
 =============
 
 This script has been made and intended to be used with a Sparkcore to call the Spark.io API based on Twitter events.
+This script powers the LED lighting under a glass desk to notify the user when a Twitter event has occured.
+Eventually the script will be extended to include Zendesk notifications and Gmail Notifications
 
 
 
